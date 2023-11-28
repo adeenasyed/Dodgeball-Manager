@@ -1,13 +1,7 @@
-# MSCI 240 Assignment 2
-This assignment project is written in Java, and tested with Gradle/JUnit.
-
-### The assignment
-You will need to implement and test all functions for the DodgeballManager class.
-
-### Setup command
-N/A
+# MSCI 240 (Data Structures & Algorithms) Assignment 2
+This assignment is written in Java, and tested with Gradle/JUnit.
 
 ### Run command
-`gradle test` will run your unit tests on your implemented DodgeballManager class
-`gradle run` will run your main function
+`gradle test` will run unit tests on DodgeballManager class
+`gradle run` will run main function
 
