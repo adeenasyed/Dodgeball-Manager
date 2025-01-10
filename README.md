@@ -1,4 +1,4 @@
-# MSCI 240 Assignment 2
+# MSCI 240 (Data Structures & Algorithms) Assignment 2
 This assignment is written in Java, and tested with Gradle/JUnit.
 
 ### Run command
